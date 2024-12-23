@@ -1,0 +1,17 @@
+body{
+    background-image:url('https://t3.ftcdn.net/jpg/02/52/12/40/360_F_252124067_aCtp9ZD934RboKmjJzkXiwYDL7XkNjpn.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: center;
+}
+h1,li,a,strong{
+    color:black;
+    font-size: 50px;
+    font-weight: 700;
+}
+h1{
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold';
+    font-weight: 800;
+    font-size: 90px;
+}
